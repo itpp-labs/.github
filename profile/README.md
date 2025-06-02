@@ -1,7 +1,7 @@
-# Frontend
+*fix-fix*
 
-![image](https://github.com/user-attachments/assets/e06da6dc-ef6e-40fb-9df0-3cc742e4ec29)
+# Frontend
+![image](https://github.com/user-attachments/assets/526b4a78-9afd-42ac-a7df-f4c2f85ee41c)
 
 # Backend
-
-![](https://github.com/user-attachments/assets/4427188c-d504-4d46-be7e-9dcf66a86312)
+![image](https://github.com/user-attachments/assets/95b580b4-c273-4167-a586-18b984a0b7cf)
